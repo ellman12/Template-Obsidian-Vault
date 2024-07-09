@@ -1,7 +1,6 @@
 {
   "vimMode": true,
-  "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
-  "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./"
+  "promptDelete": false,
+  "attachmentFolderPath": "./",
+  "showRibbon": true
 }

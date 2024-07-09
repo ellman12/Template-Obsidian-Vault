@@ -1,18 +1,19 @@
 {
-  "editor:swap-line-up": [
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "app:go-back": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "ArrowUp"
+      "key": "ArrowLeft"
     }
   ],
-  "editor:swap-line-down": [
+  "app:go-forward": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "ArrowDown"
+      "key": "ArrowRight"
     }
   ],
   "app:delete-file": [
@@ -21,6 +22,23 @@
         "Alt"
       ],
       "key": "X"
+    }
+  ],
+  "vim-toggle:toggle-vim": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
     }
   ]
 }

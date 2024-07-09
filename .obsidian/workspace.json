@@ -1,48 +1,35 @@
 {
   "main": {
-    "id": "089c3f5361b6c739",
+    "id": "6bbadb68fa3b5c7a",
     "type": "split",
     "children": [
       {
-        "id": "94be31ef58f0ebeb",
+        "id": "2d5f1cb280c6ae29",
         "type": "tabs",
         "children": [
           {
-            "id": "b77004fbf84d960b",
+            "id": "fd4df3d16dc0a592",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "6258a252efc7eee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cd03048f9adfcfc2",
+    "id": "f626d5d0c89bc658",
     "type": "split",
     "children": [
       {
-        "id": "be3249c130a91875",
+        "id": "e1e17b885454d406",
         "type": "tabs",
         "children": [
           {
-            "id": "ece927e574e091ae",
+            "id": "81b1a1d853db0932",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +39,7 @@
             }
           },
           {
-            "id": "cadffcfdaffa1b91",
+            "id": "f57e5ab937c56cde",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +54,7 @@
             }
           },
           {
-            "id": "811ed3d8fe22c0a4",
+            "id": "83dffd5df3fe5de6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "679d1d5e735486fd",
+    "id": "96daa3e54f3e85b0",
     "type": "split",
     "children": [
       {
-        "id": "7f2d930854a77bd7",
+        "id": "90bbf8fd5d06c006",
         "type": "tabs",
         "children": [
           {
-            "id": "f7b54f95ace5da50",
+            "id": "b47e9ccaeb7a34ef",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +92,18 @@
             }
           },
           {
-            "id": "216d0d30ca8fd2f5",
+            "id": "7b84511830750e31",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "81e130ebc328f6ae",
+            "id": "0574afcbf59aa230",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,26 +114,35 @@
             }
           },
           {
-            "id": "b5dc4b29a83f527f",
+            "id": "7759f1cb40ebc771",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "604e74a683b452d3",
+            "id": "b1b2ae5bacf64208",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "6729521f2aab4a01",
+            "type": "leaf",
+            "state": {
+              "type": "external-links-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -161,16 +155,18 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6258a252efc7eee0",
+  "active": "fd4df3d16dc0a592",
   "lastOpenFiles": [
     "Untitled.md",
-    "README.md",
-    "LICENSE",
-    "Template-Obsidian-Vault/README.md",
-    "Template-Obsidian-Vault/LICENSE",
-    "Template-Obsidian-Vault"
+    "a.md",
+    "Excalidraw/Drawing 2024-07-09 13.47.29.excalidraw.md",
+    "Excalidraw",
+    "Welcome.md"
   ]
 }
