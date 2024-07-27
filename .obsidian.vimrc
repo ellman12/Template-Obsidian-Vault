@@ -3,7 +3,18 @@ inoremap <PageUp> <PageUp><C-o>zz
 nnoremap <PageDown> <PageDown>zz
 inoremap <PageDown> <PageDown><C-o>zz
 
-nnoremap U <C-r>
-
 nmap j gj
 nmap k gk
+
+" Redo with U in addition to Ctrl R.
+nnoremap U <C-r>
+
+" Send x, X, and s to the black hole register.
+nnoremap x "_x
+nnoremap X "_X
+nnoremap s "_s
+
+vnoremap x "_x
+vnoremap X "_X
+vnoremap s "_s
+
